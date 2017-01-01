@@ -1,0 +1,7 @@
+setup.py
+gomaticify.egg-info/PKG-INFO
+gomaticify.egg-info/SOURCES.txt
+gomaticify.egg-info/dependency_links.txt
+gomaticify.egg-info/not-zip-safe
+gomaticify.egg-info/requires.txt
+gomaticify.egg-info/top_level.txt

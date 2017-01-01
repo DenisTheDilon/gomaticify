@@ -1,0 +1,4 @@
+gomatic==0.4.12
+gomaticify==0.1.0
+PyYAML==3.12
+requests==2.12.4
